@@ -1,13 +1,15 @@
-# reinosofrancisco.github.io
+# SilvioPereyra.github.io
 
-# webpageExample
+# webpage
 
-reinosofrancisco.github.io
+SilvioPereyra.github.io
 
-Ejemplo de una pagina web
+
 link:
-https://reinosofrancisco.github.io/
+https://SilvioPereyra.github.io/
 
-Solamente utiliza HTML y CSS
-Display: Flex
+
+-----------------------------------------
+Pagina web creada por Reinoso Francisco
+-----------------------------------------
 
